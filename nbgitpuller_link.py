@@ -5,9 +5,9 @@ Aufruf:
     python3 nbgitpuller_link.py <repo-url> [pfad/zum/notebook.ipynb] [hub-url]
 
 Beispiel:
-    python3 nbgitpuller_link.py https://github.com/nsteudtner/biw3-10-uebung03.git
-    python3 nbgitpuller_link.py https://github.com/nsteudtner/biw3-10-uebung03.git InstationaereBehaelterleerung_Nummerik.ipynb
-    python3 nbgitpuller_link.py https://gitlab.hrz.tu-chemnitz.de/nick/biw3-10-uebung03.git "" https://jupyterhub.hpc.tu-dresden.de
+    python3 nbgitpuller_link.py https://github.com/nsteudtner/biw3-10-uebung02.git
+    python3 nbgitpuller_link.py https://github.com/nsteudtner/biw3-10-uebung02.git InstationaereBehaelterleerung_Numerik.ipynb
+    python3 nbgitpuller_link.py https://gitlab.hrz.tu-chemnitz.de/nick/biw3-10-uebung02.git "" https://jupyterhub.hpc.tu-dresden.de
 """
 import sys
 from urllib.parse import quote

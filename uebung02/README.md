@@ -15,13 +15,13 @@ Dein Stand bleibt erhalten, solange du den Codespace nicht löschst (Datei → S
 
 ## Weg 2: Google Colab (ohne GitHub-Account, Google-Konto nötig)
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/steudtner/BIW3-10/blob/main/uebung02/InstationaereBehaelterleerung_Nummerik.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/steudtner/BIW3-10/blob/main/uebung02/InstationaereBehaelterleerung_Numerik.ipynb)
 
 Öffnet dasselbe Notebook direkt in Colab – Zellen von oben nach unten ausführen.
 
 ## Deine Aufgabe
 
-In `InstationaereBehaelterleerung_Nummerik.ipynb` findest du in Abschnitt 3 die Funktion
+In `InstationaereBehaelterleerung_Numerik.ipynb` findest du in Abschnitt 3 die Funktion
 `euler()` mit **TODO-Kommentaren** – dort implementierst du den Euler-Schritt (Aufgabe 5a).
 Danach Schrittweitenstudie (5b) und Interpretation (5c).
 
