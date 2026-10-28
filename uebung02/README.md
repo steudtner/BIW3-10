@@ -1,4 +1,4 @@
-# BIW3-10 · Übung 3 · Aufgabe 5 – Numerik (läuft komplett im Browser)
+# BIW3-10 · Übung 2 · Aufgabe 5 – Numerik (läuft komplett im Browser)
 
 Du brauchst **nichts zu installieren** – das Notebook läuft online. Zwei Wege:
 
@@ -15,7 +15,7 @@ Dein Stand bleibt erhalten, solange du den Codespace nicht löschst (Datei → S
 
 ## Weg 2: Google Colab (ohne GitHub-Account, Google-Konto nötig)
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/steudtner/BIW3-10/blob/main/uebung03/InstationaereBehaelterleerung_Nummerik.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/steudtner/BIW3-10/blob/main/uebung02/InstationaereBehaelterleerung_Nummerik.ipynb)
 
 Öffnet dasselbe Notebook direkt in Colab – Zellen von oben nach unten ausführen.
 
