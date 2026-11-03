@@ -8,7 +8,7 @@ Du brauchst **nichts zu installieren** – das Notebook läuft online. Drei Wege
 2. Das Repository wird automatisch in deinen Hub-Home-Ordner geklont und das Notebook öffnet sich.
 3. Kernel **„Python 3"** wählen (falls gefragt) und Zellen **von oben nach unten** ausführen (`Shift`+`Enter`).
 
-[![Open in JupyterHub](https://img.shields.io/badge/Open%20in-JupyterHub-blue)](https://jupyterhub.hpc.tu-dresden.de/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgitlab.hrz.tu-chemnitz.de%2Fs4713238-at-tu-dresden.de%2Fbiw-3-10.git&branch=main&urlpath=tree%2Fuebung02%2FInstationaereBehaelterleerung_Numerik.ipynb)
+[![Open in JupyterHub](https://img.shields.io/badge/Open%20in-JupyterHub-blue)](https://jupyterhub.hpc.tu-dresden.de/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgitlab.hrz.tu-chemnitz.de%2Fs4713238-at-tu-dresden.de%2Fbiw-3-10.git&branch=main&urlpath=tree%2Fuebung02%2FInstationaereBehaelterleerung_Numerik.ipynb#/~(cluster~'barnard~nodes~'1~ntasks~'1~cpuspertask~'1~mempercpu~'1536~runtime~'2:00:00))
 
 Dein Stand bleibt im Hub-Home-Ordner erhalten.
 
