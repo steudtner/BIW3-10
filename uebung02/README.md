@@ -24,9 +24,14 @@ Dein Stand bleibt hier erhalten (Codespace nicht löschen bzw. im Google-Drive s
 
 ## Deine Aufgabe
 
-In `InstationaereBehaelterleerung_Numerik.ipynb` findest du in Abschnitt 3 die Funktion
-`euler()` mit **TODO-Kommentaren** – dort implementierst du den Euler-Schritt (Aufgabe 5a).
-Danach Schrittweitenstudie (5b) und Interpretation (5c).
+In `InstationaereBehaelterleerung_Numerik.ipynb` findest du:
+
+- **Abschnitt 2:** die Funktion `rhs()` mit **TODO-Kommentaren** – dort programmierst du die Physik (Torricelli + Kontinuität, Aufgabe 5a).
+- **Abschnitt 3:** die Zeitintegration mit `solve_ivp` inkl. Event „Behälter leer" (Aufgabe 5b).
+- **Abschnitt 4:** den Plot der Zeitreihe $h(t)$ (Aufgabe 5c).
+- **Abschnitt 6:** die Interpretation in eigenen Worten (Aufgabe 5d).
+
+Der Vergleich mit der aus der Übung hergeleiteten Gleichung kommt erst in Abschnitt 5 -- als Kontrolle der Numerik.
 
 ## Wichtig
 
